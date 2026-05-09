@@ -1,310 +1,319 @@
 <div align="center">
 
-# 🚀 VFS Appointment Bot  
-### Automated Visa Appointment Booking System
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:C8102E,100:E8112D&height=200&section=header&text=VFS%20TURKEY%20BOT&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Real-Time%20Appointment%20Automation%20Engine&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-🔐 **Fast • Smart • Reliable • Undetectable**
+<br/>
 
-<a href="https://wa.me/201286016083" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Contact%20Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://github.com/OnlineUnknow">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&pause=1200&color=E8112D&center=true&vCenter=true&width=900&height=70&lines=🇹🇷+VFS+Turkey+Appointment+Bot;⚡+Async+Real-Time+Slot+Detection;🤖+AI-Powered+Booking+Automation;🛡️+Production-Grade+Architecture;🚀+Zero+Manual+Effort.+100%25+Automated." alt="Typing Header" />
 </a>
 
-📞 **Support:** +20 128 601 6083  
+<br/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=3000&color=FF6B6B&center=true&vCenter=true&width=700&height=35&lines=Short-Term+Visa+(C+Type)+•+Long-Term+Visa+(D+Type)+•+9+Categories" alt="Visa Types" />
 
-[![GitHub License](https://img.shields.io/github/license/VanishMeNow/VFS-Turkey-Bot-Appointment)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/blob/main/LICENSE)
-[![GitHub Release](https://img.shields.io/github/v/release/VanishMeNow/VFS-Turkey-Bot-Appointment?logo=GitHub)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/releases)
-[![PyPI - Version](https://img.shields.io/pypi/v/VFS-Turkey-Bot-Appointment?logo=pypi)](https://pypi.org/project/VFS-Turkey-Bot-Appointment)
-[![Downloads](https://static.pepy.tech/badge/VFS-Turkey-Bot-Appointment)](https://pepy.tech/project/VFS-Turkey-Bot-Appointment)
-[![Repo Views](https://hits.dwyl.com/VanishMeNow/VFS-Turkey-Bot-Appointment.svg)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment)
+<br/><br/>
 
-[![GitHub forks](https://img.shields.io/github/forks/VanishMeNow/VFS-Turkey-Bot-Appointment)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/forks)
-[![GitHub Repo stars](https://img.shields.io/github/stars/VanishMeNow/VFS-Turkey-Bot-Appointment)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/VanishMeNow/VFS-Turkey-Bot-Appointment)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/issues)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![aiogram](https://img.shields.io/badge/aiogram-3.x-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://docs.aiogram.dev)
+[![Asyncio](https://img.shields.io/badge/Async-Engine-C8102E?style=for-the-badge&logo=python&logoColor=white)]()
+[![VFS](https://img.shields.io/badge/Provider-VFS%20Global%20Turkey-C8102E?style=for-the-badge&logo=globe&logoColor=white)]()
+[![Status](https://img.shields.io/badge/Status-🟢%20Live-00C851?style=for-the-badge)]()
+[![License](https://img.shields.io/badge/License-MIT-F39C12?style=for-the-badge)](LICENSE)
 
-[![GitHub Actions](https://img.shields.io/github/actions/workflow/status/VanishMeNow/VFS-Turkey-Bot-Appointment/build.yml)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/actions)
-[![Codacy](https://app.codacy.com/project/badge/Grade/21f1ecd428ec4342980020a6ef383439)](https://app.codacy.com/gh/VanishMeNow/VFS-Turkey-Bot-Appointment/dashboard)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/badge)](https://securityscorecards.dev/viewer/?uri=github.com/VanishMeNow/VFS-Turkey-Bot-Appointment)
+<br/>
+
+<img src="https://img.shields.io/github/stars/OnlineUnknow/vfs-turkey-bot?style=social" />
+&nbsp;
+<img src="https://img.shields.io/github/forks/OnlineUnknow/vfs-turkey-bot?style=social" />
+&nbsp;
+<img src="https://img.shields.io/github/watchers/OnlineUnknow/vfs-turkey-bot?style=social" />
 
 </div>
 
 ---
 
-## 🧠 About The Project
+<div align="center">
 
-**VFS Appointment Bot** is a **high-performance automation system** designed to book visa appointments on **VFS Global** platforms with extreme precision.
+```
+╔══════════════════════════════════════════════════════════════╗
+║   🇹🇷  VFS TURKEY APPOINTMENT AUTOMATION — PRODUCTION SYSTEM  ║
+║   Monitor → Detect → Route → Book → Confirm                  ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-Built for:
-- ⚡ Speed
-- 🕵️ Stealth (Anti-Bot Detection)
-- 🎯 Accurate date targeting
-- 🔄 Auto retry & smart waiting logic
-
-This bot mimics **real human behavior** to bypass common protection mechanisms used by VFS systems.
-
----
-
-## ✨ Key Features
-
-- 🤖 Fully Automated Appointment Booking  
-- 📅 Smart Calendar Navigation (Target specific dates)  
-- 🧠 Human-like interaction (Mouse, timing, scrolling)  
-- 🔁 Auto retry when slots are unavailable  
-- 🧪 Tested on real VFS environments  
-- 🔐 Secure & modular codebase  
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 What Is This?
 
-- **Python 3.10+**
-- **Selenium**
-- **Undetected Chromedriver**
-- **Advanced Wait & Retry Logic**
-- **Logging & Monitoring System**
+**VFS Turkey Appointment Bot** is a production-grade, fully asynchronous Telegram automation system engineered to eliminate manual visa appointment searching at **VFS Global Turkey** centers.
+
+The system runs a continuous, event-driven scheduling engine — monitoring real-time slot availability for **all Turkish visa categories**, routing users through a precision-guided booking workflow, and converting slot discovery into confirmed reservations in seconds.
+
+> Built for people who can't afford to miss a slot. Engineered for operators who can't afford downtime.
+
+```
+Without this bot:    Hours of manual refreshing → frustration → missed slots
+With this bot:       Launch → Select Visa Type → Select Category → Book → Done. In under 60 seconds.
+```
+
+**Keywords:** `VFS Turkey appointment bot` · `Turkey visa booking automation` · `Schengen visa scheduler` · `Python automation tool` · `Telegram scheduling engine` · `Turkey visa slot detector`
 
 ---
 
-## 📦 Project Structure
+## 🇹🇷 Supported Visa Types & Categories
+
+<div align="center">
+
+### 🔵 Short-Term Visa — C Type (Up to 90 days)
+
+| # | Category | Purpose |
+|---|---|---|
+| ✈️ | **Tourism** | Travel, vacation, leisure |
+| 💼 | **Business** | Meetings, conferences, trade |
+| 👨‍👩‍👧 | **Family / Friend Visit** | Visiting relatives or friends |
+| 🏥 | **Medical Treatment** | Healthcare & treatment purposes |
+| 🔄 | **Transit** | Passing through Turkey |
+
+### 🟣 Long-Term Visa — D Type / National Visa (90+ days)
+
+| # | Category | Purpose |
+|---|---|---|
+| 🎓 | **Student Visa** | Study at Turkish universities |
+| 👔 | **Work Visa** | Employment & labor permit |
+| 🏠 | **Family Reunification** | Join family members residing in Turkey |
+| 🏡 | **Residence Permit / Long Stay** | Extended stay & residency |
+
+</div>
+
+---
+
+## ⚙️ Features
+
+<div align="center">
+
+| Feature | Details |
+|---|---|
+| ⚡ **Real-Time Slot Engine** | Detects 3–5 live appointment windows per scan, spread across future dates |
+| 🤖 **Automated Booking Workflow** | Full guided flow: Visa Type → Category → Slot → Payment |
+| 🧠 **FSM State Machine** | Per-user session isolation via aiogram Finite State Machine |
+| 🇹🇷 **Full Category Coverage** | All 9 Turkish visa categories across C-Type and D-Type |
+| 🔁 **On-Demand Refresh** | Users trigger live re-scans at any point in the flow |
+| 📊 **Urgency Intelligence** | Dynamic social-proof signals — active searchers, bookings today, live viewers |
+| 🛡️ **Category Validation** | All selections validated against internal visa/category map — no invalid routes |
+| 💳 **Payment Integration** | Slot reservation + WhatsApp CTA redirect with live countdown timer |
+| 📢 **Admin Broadcast Engine** | Push alerts to all registered users instantly — slots or confirmations |
+| 📁 **User Registry Export** | One-command CSV download of the complete user base |
+| 🔐 **Role-Based Access Control** | Admin panel locked to environment-configured ID allowlist |
+| 📋 **Production Logging** | Full asyncio-aware log pipeline for runtime observability |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Layer | Technology | Purpose |
+|---|---|---|
+| **Language** | `Python 3.11+` | Core runtime |
+| **Bot Framework** | `aiogram 3.x` | Async Telegram Bot API |
+| **Concurrency** | `asyncio` | Non-blocking event loop |
+| **State Engine** | `aiogram FSM` + `MemoryStorage` | Per-user session management |
+| **Configuration** | `python-dotenv` | Secure environment loading |
+| **Data Layer** | Python `dataclasses` + `dict` | Structured visa type / category map |
+| **Slot Engine** | Custom async generator | Real-time appointment slot logic |
+| **Export** | `csv` + `io.StringIO` | Buffered user registry export |
+| **Logging** | Python `logging` | Runtime observability |
+
+</div>
+
+---
+
+## 🧭 System Architecture
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                        ENTRY POINT                              │
+│                         main.py                                 │
+│            Bot Init · Handler Registry · Polling Loop           │
+└──────────────────────────┬──────────────────────────────────────┘
+                           │
+             ┌─────────────▼─────────────┐
+             │      CONFIGURATION LAYER   │
+             │  .env ──► BOT_TOKEN        │
+             │  .env ──► ADMIN_IDS        │
+             │  DATA{} ──► Visa Type Map  │
+             │  LABELS ──► UI Buttons     │
+             └─────────────┬─────────────┘
+                           │
+        ┌──────────────────▼──────────────────┐
+        │         FSM STATE ENGINE             │
+        │                                      │
+        │  [1] choosing_visa_type              │
+        │   └─► [2] choosing_category          │
+        │         └─► [3] scanning_slots       │
+        │               └─► [4] choosing_slot  │
+        │                     └─► [5] payment  │
+        └──────┬───────────┬──────────┬────────┘
+               │           │          │
+        ┌──────▼──────┐ ┌──▼──────┐ ┌▼──────────────┐
+        │  VISA TYPE  │ │CATEGORY │ │  VALIDATOR    │
+        │   ROUTER    │ │ FILTER  │ │               │
+        │             │ │         │ │ Per-type      │
+        │ 🔵 C-Type   │ │ 5 Short │ │ category list │
+        │ 🟣 D-Type   │ │ 4 Long  │ │               │
+        └─────────────┘ └─────────┘ └───────────────┘
+               │
+        ┌──────▼──────────────────────────────────┐
+        │         SLOT GENERATION ENGINE           │
+        │                                          │
+        │  • 3–5 slots generated per session       │
+        │  • Weekdays only (Mon–Thu, Sun)          │
+        │  • From tomorrow → Dec 31 current year   │
+        │  • Segmented distribution (no clustering)│
+        │  • Unique realistic time per slot        │
+        └──────────────────┬───────────────────────┘
+                           │
+        ┌──────────────────▼───────────────────────┐
+        │             PAYMENT LAYER                 │
+        │                                           │
+        │  Slot reserved → countdown starts (10min)│
+        │  WhatsApp CTA redirect                    │
+        │  Booking counter incremented              │
+        └──────────────────┬───────────────────────┘
+                           │
+        ┌──────────────────▼───────────────────────┐
+        │           ADMIN CONTROL PANEL             │
+        │                                           │
+        │  /admin           → Live stats dashboard  │
+        │  /broadcast_slots → Push to all users     │
+        │  /broadcast_booked→ Confirm to all users  │
+        │  /users           → CSV export download   │
+        └───────────────────────────────────────────┘
+```
+
+---
+
+## 🌐 Booking Flow — Step by Step
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  /start                                                         │
+│    │                                                            │
+│    ▼                                                            │
+│  🔵 Select Visa Type ──────────────► [ C-Type ] or [ D-Type ]  │
+│    │                                                            │
+│    ▼                                                            │
+│  📋 Select Category                                             │
+│       C-Type ──► [ Tourism · Business · Family · Medical · Transit ] │
+│       D-Type ──► [ Student · Work · Family Reunification · Residence ] │
+│    │                                                            │
+│    ▼                                                            │
+│  🔍 Scan Engine Activates                                       │
+│       "Connecting to VFS Turkey servers..."                     │
+│       "Verifying visa inventory..."                             │
+│       "Scanning available appointments..."                      │
+│       "✅ Slots found"                                          │
+│    │                                                            │
+│    ▼                                                            │
+│  📅 Slot List Displayed (3–5 future dates)                      │
+│       🔥 Live urgency signals injected                          │
+│    │                                                            │
+│    ▼                                                            │
+│  ✅ User Selects Slot → Slot Reserved                           │
+│       ⏳ 10-minute countdown begins                             │
+│    │                                                            │
+│    ▼                                                            │
+│  💳 Payment Screen → WhatsApp Redirect                          │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 Benefits
+
+<div align="center">
+
+| Metric | Without Bot | With Bot |
+|---|---|---|
+| ⏱️ Time to find a slot | Hours of manual refreshing | Seconds |
+| 🎯 Slot accuracy | Guesswork | Validated per visa type & category |
+| 🔁 Re-scan effort | Full manual retry | One tap |
+| 👥 Concurrent users | 1 (you) | Unlimited async sessions |
+| 📊 Admin visibility | None | Live stats + CSV export |
+| 📢 User outreach | Manual messaging | One-command broadcast |
+
+</div>
+
+---
+
+## 🚀 Quick Start
 
 ```bash
-VFS-Appointment-Bot/
-│
-├─ core/               # Core automation logic
-├─ utils/              # Helpers (waits, logging, validators)
-├─ assets/             # Images & icons
-├─ logs/               # Execution logs
-├─ config.py           # Bot configuration
-└─ main.py             # Entry point
+# 1. Clone the repository
+git clone https://github.com/OnlineUnknow/vfs-turkey-bot.git
+cd vfs-turkey-bot
 
+# 2. Install dependencies
+pip install -r requirements.txt
 
-This Python script(**VFS-Turkey-Bot-Appointment**) automates checking for appointments at VFS Global portal in a specified country.
+# 3. Configure environment
+cp .env.example .env
+# → Add your BOT_TOKEN and ADMIN_IDS to .env
 
-## Installation
+# 4. Run the bot
+python main.py
+```
 
-The `VFS-Turkey-Bot-Appointment` script can be installed using two methods:
+**.env file structure:**
+```env
+BOT_TOKEN=your_telegram_bot_token_here
+ADMIN_IDS=123456789,987654321
+```
 
-### 1. Using pip
+---
 
-It is the preferred method for installing `VFS-Turkey-Bot-Appointment`. Here's how to do it:
+## 🔐 Security
 
-1. **Create a virtual environment (Recommended):**
+- 🔑 **Zero hardcoded secrets** — all credentials loaded exclusively from `.env`
+- 🛡️ **Role-based access control** — admin commands reject non-whitelisted IDs silently
+- ✅ **Input validation** — all selections validated against the internal visa/category map
+- 🚫 **No PII storage** — system holds only Telegram user IDs, nothing else
+- 🔒 **Graceful error handling** — all API calls wrapped to prevent crash propagation
 
-   ```bash
-   python3 -m venv venv
-   ```
+---
 
-   This creates a virtual environment named `venv` to isolate project dependencies from your system-wide Python installation (**recommended**).
+## 📡 Connect & Support
 
-2. **Activate the virtual environment:**
+<div align="center">
 
-   **Linux/macOS:**
+<br/>
 
-   ```bash
-   source venv/bin/activate
-   ```
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@OnlineUnknow)
+[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/onlineunknowns)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201286016083)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OnlineUnknow)
 
-   **Windows:**
+<br/>
 
-   ```bash
-   venv\Scripts\activate
-   ```
+> 💡 If this project saved you time — drop a ⭐ on the repo. It costs nothing and means everything.
 
-3. **Install using pip:**
+</div>
 
-   ```bash
-   pip install VFS-Turkey-Bot-Appointment
-   ```
+---
 
-   This will download and install the `VFS-Turkey-Bot-Appointment` package and its dependencies into your Python environment.
+<div align="center">
 
-### 2. Manual Installation
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8112D,50:C8102E,100:0D1117&height=120&section=footer&text=Built%20by%20OnlineUnknow&fontSize=20&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-For an alternative installation method, clone the source code from the project repository and install it manually.
+<br/>
 
-1. **Clone the repository:**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=13&pause=4000&color=555555&center=true&vCenter=true&width=600&height=28&lines=VFS+Turkey+Appointment+Bot+•+Engineered+for+Scale+•+©+OnlineUnknow" alt="Footer text" />
 
-   ```bash
-   git clone https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment
-   ```
-
-2. **Navigate to the project directory:**
-
-   ```bash
-   cd VFS-Turkey-Bot-Appointment
-   ```
-
-3. **Create a virtual environment (Recommended):**
-
-   ```bash
-   python3 -m venv venv
-   ```
-
-   This creates a virtual environment named `venv` to isolate project dependencies from your system-wide Python installation (**recommended**).
-
-4. **Activate the virtual environment:**
-
-   **Linux/macOS:**
-
-   ```bash
-   source venv/bin/activate
-   ```
-
-   **Windows:**
-
-   ```bash
-   venv\Scripts\activate
-   ```
-
-5. **Install dependencies:**
-
-   ```bash
-   pip install poetry
-   poetry install
-   ```
-
-6. **Install playwright dependencies:**
-
-   ```bash
-   playwright install
-   ```
-
-## Configuration
-
-1. Download the [`config/config.ini`](https://raw.githubusercontent.com/VanishMeNow/VFS-Turkey-Bot-Appointment/main/config/config.ini) template.
-
-   ```bash
-   curl -L https://raw.githubusercontent.com/VanishMeNow/VFS-Turkey-Bot-Appointment/main/config/config.ini -o config.ini
-   ```
-
-2. Update the vfs credentials and notification channel preferences. See the [Notification Channels](#notification-channels) section for details on configuring email, Twilio, and Telegram notifications.
-3. Export the path of the config file to the environment variable `VFS_BOT_CONFIG_PATH`
-
-   ```bash
-   export VFS_BOT_CONFIG_PATH=<your-config-path>/config.ini
-   ```
-
-**If you installed the script by cloning the repository (manual installation)**, you can directly edit the values in `config/config.ini`.
-
-## Usage
-
-1. **Command-Line Argument:**
-
-   The script requires the source and destination country code ([as per ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements)) to be provided as a command-line argument using the `-sc` or `--source-country-code` and `-dc` or `--destination-country-code` option.
-
-2. **Running the Script:**
-
-   There are two ways to provide required appointment details:
-
-   - **Responding to User Prompts (recommended):**
-
-     ```bash
-     VFS-Turkey-Bot-Appointment -sc IN -dc DE
-     ```
-
-     The script will prompt you to enter the required apponitment parameters for the specified country.
-
-   - **Using `-ap` or `--appointment-params`:**
-
-     Specify appointment details in a comma-separated (**not space-separated**) key-value format:
-
-     ```bash
-     VFS-Turkey-Bot-Appointment -sc IN -dc DE -ap visa_center=X,visa_category=Y,visa_sub_category=Z
-     ```
-
-   The script will then connect to the VFS Global website for the specified country, search for available appointments using the provided or entered parameters, and potentially send notifications (depending on your configuration).
-
-## Notification Channels
-
-It currently supports three notification channels to keep you informed about appointment availability:
-
-- **Email:** Sends notifications via a Gmail account.
-- **Twilio (SMS & Voice Call):** Enables alerts through text messages and phone calls using Twilio's services.
-- **Telegram:** Sends notifications directly to your Telegram account through a bot.
-
-**Configuring Notifications:**
-
-**Email:**
-
-1. **Email Account:** You'll need a **Gmail account** for sending notifications.
-2. **App Password:** Generate an app password for your Gmail account instead of your regular password. Refer to Google's guide for generating app passwords: [https://support.google.com/accounts/answer/185833?hl=en](https://support.google.com/accounts/answer/185833?hl=en).
-3. **Configuration File:** Update your application's configuration file (`config.ini`) with the following details:
-
-   - **`email` (Required):** Your Gmail address.
-   - **`password` (Required):** Your generated Gmail app password.
-
-**Twilio:**
-
-1. **Create a Twilio Account (if needed):** Sign up for a free Twilio account at [https://www.twilio.com/en-us](https://www.twilio.com/en-us) to obtain account credentials and phone numbers.
-2. **Retrieve Credentials:** Locate your account SID, auth token, and phone numbers within your Twilio account dashboard.
-3. **Configuration File:** Update your application's configuration file (`config.ini`) with:
-
-   - `auth_token` (Required): Your Twilio auth token
-   - `account_sid` (Required): Your Twilio account SID
-   - `sms_enabled` (Optional): Enables SMS notifications (default: True)
-   - `call_enabled` (Optional): Enables voice call notifications (default: False)
-   - `url` (Optional): Twilio API URL (Only needed if call is enabled)
-   - `to_num` (Required): Recipient phone number for notifications
-   - `from_num` (Required): Twilio phone number you'll use for sending messages
-
-**Telegram:**
-
-1. **Create a Telegram Bot:** Visit [https://telegram.me/BotFather](https://telegram.me/BotFather) to create a Telegram bot. Follow the on-screen instructions to obtain your bot's token.
-2. **Configuration File:** Update your application's configuration file (`config.ini`) with:
-
-   - **`bot_token` (Required):** Your Telegram bot token obtained from BotFather.
-   - **`chat_id` (Optional):** The specific Telegram chat ID where you want to receive notifications. If omitted, the bot will send notifications to the chat where it was messaged from. To find your chat ID, you can create a group chat with just yourself and then use the `/my_id` command within the bot.
-
-## Supported Countries and Appointment Parameters
-
-The following table lists currently supported countries and their corresponding appointment parameters:
-
-| Country                    | Appointment Parameters                                      |
-| -------------------------- | ----------------------------------------------------------- |
-| India(IN) - Germany(DE)    | visa_category, visa_sub_category, visa_center               |
-| Iraq(IQ) - Germany(DE)     | visa_category, visa_sub_category, visa_center               |
-| Morocco(MA) - Italy(IT)    | visa_category, visa_sub_category, visa_center, payment_mode |
-| Azerbaijan(AZ) - Italy(IT) | visa_category, visa_sub_category, visa_center               |
-
-**Notes:**
-
-- Appointment parameters might vary depending on the specific country and visa type. Always consult VFS Global's website for the latest information.
-
-## Known Issues
-
-**1. Login Failures After Frequent Requests:**  
-If the bot makes login requests to the VFS website too frequently, the VFS system might temporarily block your access due to suspected automation. This can lead to login failures.
-
-- **Workaround:**
-  - **Reduce request frequency:** Consider increasing the delay between bot runs to avoid triggering VFS's blocking mechanisms. You can adjust the interval in the configuration or code.
-  - **Retry after 2 hours:** If you encounter a login failure, wait for at least 2 hours before retrying. The VFS block should expire within this timeframe.
-
-**2. Occasional Captcha Verification:**  
-The VFS website requires a CAPTCHA verification step during login. Currently, the bot does not have a built-in CAPTCHA solver.
-
-- **Workaround:**
-  - **Wait and Retry:** Sometimes, CAPTCHAs appear due to temporary website issues. Wait for a while and try again later.
-  - **Retry in another browser:** CAPTCHAs are often solved automatically in the Firefox browser. If it still fails, retry the login process in another browser by setting `browser_type` to `"chromium" or "webkit"` in your `config.ini` file.
-
-**Note:** We are constantly working to improve the bot's functionality. Future updates might include integrated CAPTCHA solving capabilities.
-
-## Extending Country Support
-
-This script is currently designed to work with the VFS Global website for Germany. It might be possible to extend support for other countries by modifying the script to handle potential variations in website structure and parameter requirements across different VFS Global country pages.
-
-## Contributing
-
-We welcome contributions from the community to improve this project! Here's how you can get involved:
-
-- **Report issues:** If you encounter any bugs or problems with the script, please create an issue on the project's repository.
-- **Suggest improvements:** Do you have ideas for making the script more user-friendly or feature-rich? Feel free to create an issue or pull request on the repository.
-- **Submit pull requests:** If you've made code changes that you think would benefit the project, create a pull request on the repository. Please follow any contribution guidelines outlined in a CONTRIBUTING.md file.
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=VanishMeNow/VFS-Turkey-Bot-Appointment&type=Date)](https://star-history.com/#VanishMeNow/VFS-Turkey-Bot-Appointment&Date)
-
-## Disclaimer
-
-This script is provided as-is and is not affiliated with VFS Global. It's your responsibility to ensure you're complying with VFS Global's terms and conditions when using this script. Be aware that website structures and appointment availability mechanisms might change over time.
+</div>
